@@ -1,4 +1,4 @@
-# Cabot_design
+# Cabot Design
 
 ## Parts list
 
@@ -28,3 +28,8 @@ The following diagram provides an overview of the assembled view of Cabot :
 7. Next, attach the top chassis member (6) using triangular clamps and suitable number of rivets. Please note that the triangular clamps should be attached on both sides of the connection.
 8. Later, attach the force sensor to right corner of the chassis member (6) when the robot is front facing. You can use screws for attaching the force sensor.
 9. Next the handle should be assembled separately using rivets and then connected to the top portion of the force sensor.
+
+## Related repositories
+
+The following repository has the code relevant to push buttons, touch sensor and vibrators interface with Arduino Mega 2560:
+https://github.com/CMU-cabot/cabot-e-arduino.git

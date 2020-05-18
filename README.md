@@ -4,7 +4,7 @@ This repository is a tutorial for creating a Cabot from scratch using different 
 
 ## Parts list
 
-The list of components needed for assembling a Cabot are enlisted in this [pdf document](components/CaBot2-E2_parts_list.pdf)
+The list of components needed for assembling a Cabot are enlisted in [this page](cabot2_e2/parts.md)
 
 ## Assembly Schematic
 

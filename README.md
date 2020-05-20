@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Cabot Design
 
 This repository is a tutorial for creating a Cabot from scratch using different components and assembly instructions.

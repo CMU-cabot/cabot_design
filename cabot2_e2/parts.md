@@ -1,6 +1,6 @@
 | Category | Item | Quantity | Specification | Description | Example Item |
 | --- | --- | --- | --- | --- | --- |
-| Body | Aluminum Frame | 1 | see **cabot2_e2.stp** file |  |  |
+| Body | Aluminum Frame | 1 | see [**cabot2_e2.stp**](https://github.com/CMU-cabot/cabot_design/blob/master-filter/cabot2_e2/cabot2_2e.stp) file |  |  |
 | Body | Rivet | 100 | 1/8" x 23/64" |  | [Link](https://www.amazon.com/dp/B0727XS1XC/) |
 | Body | Suitcase (Cover) | 1 | Carry-on lagguage fits to CaBot | Delivered through Amazon (CMU version) | [Link](https://www.amazon.com/dp/B0727XS1XC) |
 | Body | Screw | 25 | M3, 16mm length, Hex Socket |  |  |
@@ -9,7 +9,7 @@
 | Body | Lock nut | 20 | M3, 0.5 mm thread, Hex lock Nut |  |  |
 | Body | Screw | 8 | M6, 10mm length, Hex Socket (no nuts required) | to fix handle and the force sensor |  |
 | Body | Spacer | 4 | Φ3mm, 60mm height, dual female hex pillar |  | [Link](https://www.newegg.com/p/0PS-008N00223?item=9SIA27C3TJ0345) |
-| Handle | Handle Print | 1 | see **stl files under handle directory** | print one each |  |
+| Handle | Handle Print | 1 | see [**stl files under handle directory**](https://github.com/CMU-cabot/cabot_design/tree/master-filter/cabot2_e2/handle) | print one each |  |
 | Handle | Tactile push button | 4 | 6x6x4.3mm | handle buttons |  |
 | Handle | Prototype PCB | 1 | 2.54mm interval, 6 x 9 holes | attach 4 buttons and insert into the handle |  |
 | Handle | Arduino Nano | 1 | Arduino Nano | Can be merge into Arduino Mega, but keep separated configuration |  | 

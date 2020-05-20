@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Cabot Design
+# CaBot Design
 
-This repository is a tutorial for creating a Cabot from scratch using different components and assembly instructions.
+This repository provides three dimensional files for CaBot parts and an instruction to build the robot from scratch.
 
 ## Parts list
 
@@ -10,7 +10,8 @@ The list of components needed for assembling a Cabot are enlisted in [this page]
 
 ## Assembly Schematic
 
-The following diagram provides an overview of the assembled view of Cabot :
+The following diagram provides an overview of the assembled view of Cabot and [cabot-e-arduino](https://github.com/CMU-cabot/cabot-e-arduino.git) repository has the wiring diagram and the code relevant to the handle (push buttons, touch sensor and vibrators) interface with Arduino Mega 2560.
+
 
 <p align="center">
   <img width="800" height="600" src="figures/Cabot Assembly.png">
@@ -32,8 +33,3 @@ The following diagram provides an overview of the assembled view of Cabot :
 7. Next, attach the top chassis member (6) using triangular clamps and suitable number of rivets. Please note that the triangular clamps should be attached on both sides of the connection.
 8. Later, attach the force sensor to right corner of the chassis member (6) when the robot is front facing. You can use screws for attaching the force sensor.
 9. Next the handle should be assembled separately using rivets and then connected to the top portion of the force sensor.
-
-## Related repositories
-
-The following repository has the code relevant to push buttons, touch sensor and vibrators interface with Arduino Mega 2560:
-https://github.com/CMU-cabot/cabot-e-arduino.git
